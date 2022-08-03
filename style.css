@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(200, 199, 199, 0.325);
+    text-align: center;
+}
+
+h1, h2, h3 {
+    background-color: rgba(187, 240, 248, 0.674);
+    color:rgb(25,25,112);
+}
+
+p {
+    font-size: 30px;
+    color: rgb(255, 4, 0)
+}
+
+b {
+    color:rgb(22, 14, 94);
+}
+
+i {
+    color:rgb(44, 224, 20);
+}
